@@ -1,5 +1,5 @@
 # News Summarizer
-![News Summarizer Interface](https://ibb.co/Qfp8J9n)
+![News Summarizer Interface](https://imgur.com/a/eJjUZG0)
 
 This project is a News Summarizer that leverages OpenAI's GPT models to provide concise summaries of news articles based on user-specified topics. It integrates with the NewsAPI to fetch relevant articles and uses Streamlit for an interactive user interface.
 
